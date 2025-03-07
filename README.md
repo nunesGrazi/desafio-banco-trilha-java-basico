@@ -27,4 +27,8 @@
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
-###### Informações retiradas de: https://github.com/digitalinnovationone/trilha-java-basico.git
+#### Autores
+- [Gleyson Sampaio](https://github.com/glysns)
+  
+###### Informações retiradas de: https://github.com/digitalinnovationone/trilha-java-basico/tree/d4cd03fdb9d8264e8cb5bbbee7f73c03e987128e/desafios/sintaxe
+
